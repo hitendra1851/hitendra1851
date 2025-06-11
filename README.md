@@ -53,9 +53,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [AI Stock Signal Scanner](https://github.com/your-username/ai-stock-scanner) | A full pipeline of signal detection, smart ranking, alerts, and backtesting |
-| [Transcription & Translation API](https://github.com/your-username/whisper-api) | Faster-Whisper powered FastAPI backend with React UI |
-| [Clinician Visit Predictor](https://github.com/your-username/visit-predictor) | Predicts clinician visits using ML.NET and sends real-time notifications |
+| [AI Stock Signal Scanner](https://github.com/hitendra1851/ai-stock-scanner) | A full pipeline of signal detection, smart ranking, alerts, and backtesting |
+| [Transcription & Translation API](https://github.com/hitendra1851/whisper-api) | Faster-Whisper powered FastAPI backend with React UI |
+| [Clinician Visit Predictor](https://github.com/hitendra1851/visit-predictor) | Predicts clinician visits using ML.NET and sends real-time notifications |
 
 ---
 
