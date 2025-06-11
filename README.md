@@ -44,7 +44,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=hitendra1851&theme=radical" />
 </p>
 
 ---
