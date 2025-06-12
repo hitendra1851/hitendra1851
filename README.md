@@ -6,7 +6,6 @@
 🔭 I’m currently working on:
 - 🚀 AI Stock Signal Scanner with Smart Ranking, Telegram Alerts, Backtesting
 - 🧠 AI Study Assistant using ChatGPT & Vector Search
-- 📊 Clinician Visit Predictor with ML.NET & Push Notifications
 - 🗣️ Whisper Transcription + Translation API + React Frontend
 
 🌱 I’m exploring:
@@ -55,7 +54,7 @@
 |--------|-------------|
 | [AI Stock Signal Scanner](https://github.com/hitendra1851/ai-stock-scanner) | A full pipeline of signal detection, smart ranking, alerts, and backtesting |
 | [Transcription & Translation API](https://github.com/hitendra1851/whisper-api) | Faster-Whisper powered FastAPI backend with React UI |
-| [Clinician Visit Predictor](https://github.com/hitendra1851/visit-predictor) | Predicts clinician visits using ML.NET and sends real-time notifications |
+
 
 ---
 
