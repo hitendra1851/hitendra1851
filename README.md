@@ -1,137 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hitendra Patel</h1>
-<h3 align="center">AI/ML Expert | Technical Lead | Healthcare IT Specialist | 15+ Years Experience</h3>
-<h4 align="center">Certified Azure & AWS Solution Associate | Expert in .NET Core, C#, Python, AI & ML</h4>
+# Hi, I'm Hitendra 👋
+
+Senior Technical Lead at [Vohra Wound Physicians](https://vohrawoundcare.com), based in Ahmedabad. I've been building software since 2009 — 17 years across healthcare IT, eDiscovery/LegalTech, and now AI/ML.
+
+My day job runs on .NET and Azure. Outside that, I'm deep in Python: building RAG pipelines, vision-model document classifiers, and a stock signal scanner that has eaten more weekends than I'd like to admit.
 
 ---
 
-## 🚀 Currently Working On
-- 🤖 **RAG (Retrieval Augmented Generation)** - Learning advanced RAG techniques for document intelligence
-- 📊 **AI Stock Signal Scanner** with Smart Ranking, Telegram Alerts & Backtesting
-- 🏥 **AI-driven Healthcare Solutions** - Medical record classification & clinical decision support
-- 🔍 **Document Classification APIs** using LLaVA (LLaMA 3.2 Vision) for invoice/receipt processing
+## What I'm building
 
-## 🌱 Currently Learning & Exploring
-- 🧠 **Advanced RAG Patterns** - Multi-agent RAG, Graph RAG, and Agentic RAG workflows
-- 👁️ **Vision LLMs** - LLaVA, Qwen Vision for document/image classification
-- 🗃️ **Vector Databases** - Chroma, Weaviate, Qdrant for semantic search
-- 🔗 **LangChain & LangGraph** for complex AI agent orchestration
-- ☁️ **Azure OpenAI** & **AWS Bedrock** for enterprise AI solutions
-
-## 💼 Professional Background
-- 🏥 **Technical Lead** at Vohra Wound Physicians (5+ years)
-- 🔬 **14+ years** in Healthcare IT & eDiscovery domains
-- 📈 Built **AI-driven automation** reducing manual effort by 40%
-- ⚡ Developed **predictive analytics models** for patient health trends
-- 🔒 Expertise in **HIPAA compliance** & healthcare data interoperability
+| Project | What it does |
+|---|---|
+| [llava-document-classifier-api](https://github.com/hitendra1851/llava-document-classifier-api) | Medical document classification using LLaVA vision model + FastAPI + Docker |
+| [Technical-Signal-Scanner](https://github.com/hitendra1851/Technical-Signal-Scanner) | Stock signal detection with ML, backtesting, and Telegram alerts |
+| [RAG-Practice](https://github.com/hitendra1851/RAG-Practice) | RAG experiments — chunking, retrieval tuning, reranking strategies |
+| [indian-stock-trading-dashboard](https://github.com/hitendra1851/indian-stock-trading-dashboard) | Real-time trading dashboard with technical indicators |
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![ML.NET](https://img.shields.io/badge/-ML.NET-512BD4?logo=.net&logoColor=white&style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?logo=chainlink&logoColor=white&style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+**Languages**
 
-### 🔧 Backend & Cloud
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=.net&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🗄️ Databases & Analytics
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![Chroma](https://img.shields.io/badge/-Chroma_DB-FF6B35?style=flat)
+**Backend & APIs**
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
----
+**AI / ML**
 
-## 🏆 Featured AI/ML Projects
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|----------------|---------------|
-| **[RAG-Practice](https://github.com/hitendra1851/RAG-Practice)** | Comprehensive RAG implementation with advanced retrieval techniques | Python, LangChain, Vector DBs |
-| **[Indian Stock Market Dashboard](https://github.com/hitendra1851/Indian-Stock-Market-Trading-Dashboard)** | Real-time trading dashboard with technical analysis & portfolio tracking | Python, FastAPI, ML |
-| **[Technical Signal Scanner](https://github.com/hitendra1851/-Technical-Signal-Scanner)** | AI-powered stock signal detection with smart ranking & backtesting | Python, ML, Pandas |
-| **[Document Classification API](https://github.com/hitendra1851/Document-Image-Classification-API-using-LLaVA)** | End-to-end document image classification using LLaVA Vision LLM | Python, FastAPI, Docker, LLaVA |
-| **[Static Web App & API](https://github.com/hitendra1851/my-static-web-app-and-api)** | Full-stack web application with API integration | JavaScript, Azure |
+**Cloud & Infra**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Databases & Analytics**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 
 ---
 
-## 📊 GitHub Analytics
+## Background
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitendra1851&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitendra1851&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=hitendra1851&theme=tokyonight&hide_border=true)
-  
-</div>
+Started as a web developer in 2009, moved into healthcare IT around 2012 and never really left — HL7 integrations, FHIR APIs, EDI processing, HIPAA compliance. That domain knowledge actually matters now that everyone's trying to plug LLMs into clinical workflows. I know where the landmines are.
+
+Also spent time in eDiscovery/LegalTech: contract review automation, document classification, legal data analytics.
+
+In my current role at Vohra, I lead the tech side of the engineering team and have been building out our AI tooling — mostly around medical record classification and clinical decision support.
+
+**Certifications:** Azure Solutions Associate · AWS Solutions Associate · Salesforce Trailhead (Apex, Data Management, Process Automation)
 
 ---
 
-## 🏥 Domain Expertise
+## GitHub Stats
 
-**Healthcare IT (14+ Years)**
-- HL7 integration & FHIR API implementation
-- Medical claim processing & EDI workflows  
-- AI-driven clinical decision support systems
-- HIPAA compliance & healthcare data security
-
-**eDiscovery & Legal Tech**
-- AI-powered document classification & review automation
-- Legal data analytics & compliance solutions
-- Contract review automation using NLP
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitendra1851&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendra1851&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
 
 ---
 
-## 🎯 Key Achievements
-- 🚀 **40% reduction** in manual effort through AI-driven automation
-- 💰 **20% cost reduction** in healthcare cloud infrastructure optimization
-- 📈 Led **15+ developer teams** in delivering complex enterprise applications
-- 🏆 **Certified** in Azure & AWS cloud solutions
-- 📊 Built **predictive analytics models** for patient health trend analysis
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hitendrapatel2)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hitendra.softwareengg@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?logo=blogger&logoColor=white&style=for-the-badge)](https://geektechinsider.blogspot.com)
-
----
-
-## 🎨 Languages & Certifications
-
-**Languages:** English (Professional), Hindi (Professional), Gujarati (Native)
-
-**Certifications:**
-- Data Modeling Badge
-- Data Security Badge  
-- Apex Triggers Badge
-- Data Management Badge
-- Process Automation Badge
-
----
-
-<div align="center">
-  
-  ⭐️ **Star your favorite projects and follow for updates on AI/ML innovations!** ⭐️
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hitendra1851&color=brightgreen&style=flat-square)
-  
-</div>
+📬 [hitendra.softwareengg@gmail.com](mailto:hitendra.softwareengg@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hitendrapatel2) &nbsp;·&nbsp; [Blog](https://geektechinsider.blogspot.com)
