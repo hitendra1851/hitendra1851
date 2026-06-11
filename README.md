@@ -77,4 +77,4 @@ In my current role at Vohra, I lead the tech side of the engineering team and ha
 
 ---
 
-📬 [hitendra.softwareengg@gmail.com](mailto:hitendra.softwareengg@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hitendrapatel2) &nbsp;·&nbsp; [Blog](https://geektechinsider.blogspot.com)
+📬 [hitendra.patel2986@gmail.com](mailto:hitendra.patel2986@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hitendrapatel2) &nbsp;·&nbsp; [Blog](https://medium.com/@hitendra.patel2986)
